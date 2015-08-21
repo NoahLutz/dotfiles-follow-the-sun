@@ -1,0 +1,77 @@
+URxvt.scrollBar: false
+
+!Colors
+!0: background in alsa
+!1:
+!2:used on folders like /tmp
+!3:
+!4: text backround in alsa
+!5:
+!6:used in bottom half of screenfetch
+!7:
+!8:
+!9:
+!10: -rwxr-xr--
+!11:
+!12: drwxr-xr-x
+!13:
+!14:lrwxrwxrwx and used in screenfetch
+!15: 
+
+!URxvt*color0: #3c3333
+!URxvt*color1: #27ADB9
+!URxvt*color2: #DA5C50
+!URxvt*color3: #3c3333
+!URxvt*color4: #3c3333
+!URxvt*color5: #27ADB9
+!URxvt*color6: #27ADB9
+!URxvt*color7: #27ADB9
+!URxvt*color8: #27ADB9
+!URxvt*color9: #27ADB9
+!URxvt*color10: #D59439
+!URxvt*color11: #27ADB9
+!URxvt*color12: #DA5C50
+!URxvt*color13: #27ADB9
+!URxvt*color14: #DA5C50
+!URxvt*color15: #DA5C50
+
+URxvt*color0: #504747
+URxvt*color1: #504747
+URxvt*color2: #504747
+URxvt*color3: #504747
+URxvt*color4: #504747
+URxvt*color5: #504747
+URxvt*color6: #946956
+URxvt*color7: #504747
+URxvt*color8: #b57c24 
+URxvt*color9: #DA5C50
+URxvt*color10: #D59439
+URxvt*color11: #DA5C50
+URxvt*color12: #DA5C50
+URxvt*color13: #DA5C50
+URxvt*color14: #DA5C50
+URxvt*color15: #E17D73
+
+
+
+URxvt*foreground: #f6f6d6
+URxvt*background: #3c3333
+!URxvt*colorBD: #f6f6d6
+!URxvt*colorIT: #D59439
+!URxvt*colorUL: #DA5C50
+
+
+
+!Clickable Links
+URxvt.perl-ext-common: default,matcher
+URxvt.url-launcher: /usr/bin/google-chrome-beta
+URxvt.matcher.button: 1
+
+
+
+
+
+
+
+
+
